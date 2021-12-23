@@ -1,0 +1,1 @@
+This is a script for a webpage for Kirkland and Sons. This static page is to render photos and videos for construction work to display to the public. The web space address for viewing is https://gnurmoor.github.io/kirkland.homes for their domain at kirklandandsons.homes
